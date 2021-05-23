@@ -44,3 +44,6 @@ d3.json(airportData).then(function(data) {
   L.geoJson(data).addTo(map);
 });
 
+// Add console.log to check to see if our code is working.
+console.log("working");
+
