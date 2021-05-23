@@ -16,6 +16,6 @@ The purposed was to use GeoJSON data to display earthquake data which was then e
 
 ![satellite major](https://user-images.githubusercontent.com/78942457/119277820-cb75b980-bbef-11eb-90bd-99330899d052.png)
 
-* The page with Navigation and all earthquakes zoom with data displayed:
+* The page with Navigation and all earthquakes zoomed in with data displayed for one result:
 
 ![nav all](https://user-images.githubusercontent.com/78942457/119277874-1a235380-bbf0-11eb-9d8e-7213a36e290c.png)
