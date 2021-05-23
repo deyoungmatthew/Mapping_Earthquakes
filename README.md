@@ -6,7 +6,7 @@ The client requested a map that had multiple views displaying earthquake data.
 
 ## **Purpose**
 
-The purposed was to use GeoJSON data to display earthquake data which was then easily view using circle markers whose size was determinant upon the magnitude of the earthquake.  Tectonic plate lines would also be displayed.  All of this could be selected between all earthquake data, major earthquakes, and tectonic plate check boxes.  A legened was included to help the user determine how the colors represented the various magnitudes.  The data could also be view in mutiple different tile layers.  Please see below for various examples of data and displays.
+The purposed was to use GeoJSON data to display earthquake data which was then easily view using circle markers whose size was determinant upon the magnitude of the earthquake.  Tectonic plate lines would also be displayed.  All of this could be selected between all earthquake data, major earthquakes, and tectonic plate check boxes.  A legened was included to help the user determine how the colors represented the various magnitudes.  The data could also be viewed between mutiple different tile layers.  Please see below for various examples of data and displays.
 
 * How the page displays when you first arrive with the streets view:
 
